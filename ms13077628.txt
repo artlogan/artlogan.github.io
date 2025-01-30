@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "artlogan.net",
+  "Id": "c63d85da-c61d-4662-97e9-5e06a6c209be"
+}
